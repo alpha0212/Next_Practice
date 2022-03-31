@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'SEBANG_Gothic_Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2104@1.0/SEBANG_Gothic_Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.login_form{
+    width: 170px;
+    height: 50px;  
+    border: 1px solid black;
+    margin-left: 44.5%;
+}
+
+.row{
+    background: white;
+    border-radius: 30px;
+}
+
+.btn1{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+.btn1:hover{
+    background: white;
+    border: 1px solid;
+    color: black;
+}
+
+.chart_container{
+    margin-left: 20%;
+    
+}
+
+.box_area{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 12px 12px 22px grey;
+    border-radius: 15px;
+    margin-top: 5%;
+    width: 400px;
+    height: 400px;
+
+}
+
+.set_graph{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
